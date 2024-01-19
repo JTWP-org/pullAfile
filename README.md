@@ -38,7 +38,7 @@ WEBHOOK_ENABLED=False
 
 <hr>
 
-make the script run every so often ( will be setting it in minutes )
+make the script run every so often ( will be setting it in minutes ) with the way i have it below it will run every 10 mins 
 
 `
 crontab -e
