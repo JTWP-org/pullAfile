@@ -20,4 +20,17 @@ set up config file
 nano cfg.cfg
 `
 `
+echo "-------------- CFG LOADED ----------------"
+
+#git hub RAW url must use RAW file 
+URL="https://raw.githubusercontent.com/something"
+
+#where to save file 
+DESTINATION="/home/steam/pavlovserver/Pavlov/Saved/Config/ModSave/pull.json"
+
+#discord webhook needed to log file state 
+WEBHOOK_URL="iamadopewebhook.org"
+
+# True or False {must use capital}
+WEBHOOK_ENABLED=False
 `
