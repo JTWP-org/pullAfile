@@ -4,7 +4,7 @@ bash script to load a file into ModSave on a timer also logs file state each pul
 
 download files
 `
-cd ~
+cd ~ ;
 git clone https://github.com/JTWP-org/pullAfile.git
 `
 <hr>
