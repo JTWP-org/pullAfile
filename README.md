@@ -6,7 +6,9 @@ download files
 `
 git clone https://github.com/JTWP-org/pullAfile.git
 `
+</p>
 
+<p>
 open folder with files and give script permissions to run will need sudo here
 `
 cd pullAfile
