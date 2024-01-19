@@ -13,8 +13,9 @@ open folder with files and give script permissions to run will need sudo here
 cd pullAfile
 `
 
+`
 sudo chmod +x pullAfile.sh
-
+`
 <hr>
 set up config file 
 
